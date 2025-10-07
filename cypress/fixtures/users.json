@@ -1,0 +1,21 @@
+{
+  "user1": {
+    "name": "Maira Brito",
+    "password": "Senha123!",
+    "gender": 1,
+    "birth": { "day": "10", "month": "May", "year": "1995" },
+    "newsletter": true,
+    "optin": true,
+    "firstName": "Maira",
+    "lastName": "Brito",
+    "company": "Minha Empresa",
+    "address1": "Rua Teste, 123",
+    "address2": "Apto 101",
+    "country": "India",
+    "state": "Teste",
+    "city": "Natal",
+    "zipcode": "59000-000",
+    "mobile": "84999999999"
+  }
+}
+
